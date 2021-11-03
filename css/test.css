@@ -1,0 +1,14 @@
+.big{
+	font-size: 60px;
+}
+.uppercase{
+			text-tranform: uppercase;
+}
+
+span{
+	color: navy;
+}
+
+h1 span{
+	color: blue;
+}
